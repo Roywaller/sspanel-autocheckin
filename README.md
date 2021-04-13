@@ -43,3 +43,4 @@ bash /path/to/ssp-autocheckin.sh
 24 10 * * * bash /path/to/ssp-autocheckin.sh >> /path/to/ssp-autocheckin.log 2>&1
 ```
 202011090136
+2021-04-13 12:59
